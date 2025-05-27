@@ -1,7 +1,3 @@
-Thanks for the clarification! Here's a revised `README.md` based on your structure:
-
----
-
 # 🧠 LeetCode Python Solutions
 
 Welcome to my collection of **LeetCode problem solutions**, all written in **Python** 🐍.
